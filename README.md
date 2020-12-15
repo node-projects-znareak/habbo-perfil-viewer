@@ -1,6 +1,6 @@
-# Buscador de perfil de habbo
+﻿# Buscador de perfil de habbo
 Ese sencillo script, esta realizado en **javascript**, usando Feth APi.
-
+ 
 Se hace uso de la API pública de habbo para realizar las peticiones
 al servidor.
 
